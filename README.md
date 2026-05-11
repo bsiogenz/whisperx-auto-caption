@@ -75,11 +75,11 @@ output/
 
 ### Hasil Subtitle Otomatis
 
-![Hasil 1](screenshots/Screenshot 2026-05-11 091854.png)
+![Hasil 1](screenshot/Screenshot 2026-05-11 091854.png)
 
-![Hasil 2](screenshots/Screenshot 2026-05-11 091854.png)
+![Hasil 2](screenshot/Screenshot 2026-05-11 091854.png)
 
-![Hasil 3](screenshots/Screenshot 2026-05-11 094402.png)
+![Hasil 3](screenshot/Screenshot 2026-05-11 094402.png)
 
 
 ---
