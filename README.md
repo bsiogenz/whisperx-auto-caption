@@ -75,11 +75,11 @@ output/
 
 ### Hasil Subtitle Otomatis
 
-![Hasil 1](screenshot/hasil1.png)
+![Hasil 1](screenshot/hasil1)
 
-![Hasil 2](screenshot/hasil2.png)
+![Hasil 2](screenshot/hasil2)
 
-![Hasil 3](screenshot/hasil3.png)
+![Hasil 3](screenshot/hasil3)
 
 
 ---
